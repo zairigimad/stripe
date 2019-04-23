@@ -3,7 +3,7 @@
 So you want to handle payment on the web? You *brave*, foolish soul :).
 
 Nah, it's fine - these days, handling credit card payments is a *blast*.
-Especially with Stripe - an awesome service we've used on KnpU for years.
+Especially with Stripe - an awesome service we've used on SymfonyCasts for years.
 
 But let's be real: you're dealing with people's money, so don't muck it up! If
 you screw up or do something insecure, there could be real consequences. You
@@ -34,7 +34,7 @@ to start up the built-in web server.
 ## Our Great Idea: Sheep Shear Club
 
 But before you start collecting any money, you need to come up with that next,
-*huge* idea. And here at KnpUniversity, we're convinced we've uncovered the next
+*huge* idea. And here at SymfonyCasts, we're convinced we've uncovered the next
 tech unicorn.
 
 Ready to find out what it is? Open your browser, and go to:
